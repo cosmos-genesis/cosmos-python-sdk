@@ -128,8 +128,6 @@ The `examples/notebooks/` directory contains Jupyter notebooks demonstrating:
 
 1. **[01_quickstart.ipynb](examples/notebooks/01_quickstart.ipynb)** - Basic queries and setup
 2. **[02_imf_analysis.ipynb](examples/notebooks/02_imf_analysis.ipynb)** - Validate Kroupa IMF
-3. **[03_stellar_evolution.ipynb](examples/notebooks/03_stellar_evolution.ipynb)** - Track stars over time
-4. **[04_exoplanet_stats.ipynb](examples/notebooks/04_exoplanet_stats.ipynb)** - Population synthesis
 
 Run notebooks locally:
 
