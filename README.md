@@ -49,7 +49,7 @@ for star in stars:
 ### Getting API Keys
 
 1. Sign up at [cosmosgenesis.com](https://cosmosgenesis.com/#beta-signup)
-2. Receive API key via email (Academic, Creator, or Studio tier)
+2. Receive API key via email
 3. Set environment variable:
 
 ```bash
@@ -233,18 +233,6 @@ pytest --cov=cosmos_genesis tests/
 ```bash
 mypy cosmos_genesis/
 ```
-
-## Pricing
-
-| Tier | Monthly | SQL Queries | Support |
-|------|---------|-------------|---------|
-| Academic | $500 | 1M/month | Email |
-| Creator | $300 | 1M/month | Community |
-| Studio | $2,500 | 10M/month | Priority |
-
-**First 50 customers: 20% lifetime discount**
-
-[Sign up for access →](https://cosmosgenesis.com/#beta-signup)
 
 ## Support
 
