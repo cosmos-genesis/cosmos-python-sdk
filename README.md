@@ -4,7 +4,6 @@
 
 **COMING SOON!**
 
-[![PyPI version](https://img.shields.io/pypi/v/cosmos-genesis-client.svg)](https://pypi.org/project/cosmos-genesis-client/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 
@@ -42,7 +41,7 @@ for star in stars:
 - **Type-safe** - Full type hints for IDE autocomplete
 - **Async support** - Built-in async/await for concurrent queries
 - **Pandas integration** - Direct conversion to DataFrames
-- **Schema validation** - Automatic validation against 89 open-source schemas
+- **Schema validation** - Automatic validation against the open-source schemas
 
 ## Authentication
 
@@ -196,9 +195,9 @@ class QueryBuilder:
 
 ## Schema Reference
 
-All 89 schemas are documented at:
+All schemas are documented at:
 
-**[cosmos-schemas GitHub Repository](https://github.com/cosmosgenesis/cosmos-schemas)**
+**[cosmos-schemas GitHub Repository](https://github.com/cosmos-genesis/cosmos-schemas)**
 
 Common tables:
 - `star` - Main sequence stars with spectral types
